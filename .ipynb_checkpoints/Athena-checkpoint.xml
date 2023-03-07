@@ -1,0 +1,377 @@
+<?xml version="1.0"?>
+<root ptr="0x7ff2e3f80510" id="0" symbol="11SwRootFrame" lower="1">
+ <sfxViewShells>
+  <SwView>
+   <SfxViewShell ptr="0x7ff2e3f79dc0" id="0"/>
+   <SwCursorShell>
+    <SwViewShell/>
+    <m_pCurrentCursor>
+     <SwPaM>
+      <point>
+       <SwPosition nNode="9" nContent="0"/>
+      </point>
+     </SwPaM>
+    </m_pCurrentCursor>
+   </SwCursorShell>
+  </SwView>
+ </sfxViewShells>
+ <infos>
+  <bounds left="284" top="284" width="14539" height="33964" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+  <prtBounds left="0" top="0" width="14539" height="33964"/>
+ </infos>
+ <page ptr="0x600000e87500" id="1" symbol="11SwPageFrame" next="17" upper="0" lower="2">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="2923" top="284" width="11900" height="16840" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1417" top="1417" width="9066" height="14006"/>
+  </infos>
+  <body ptr="0x600000bda840" id="2" symbol="11SwBodyFrame" upper="1" lower="3">
+   <infos>
+    <bounds left="4340" top="1701" width="9066" height="14006" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9066" height="14006"/>
+   </infos>
+   <txt ptr="0x7ff2e051d390" id="3" symbol="11SwTextFrame" next="4" upper="2" txtNodeIndex="9">
+    <infos>
+     <bounds left="4340" top="1701" width="9066" height="1204" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="100" width="9066" height="1104"/>
+    </infos>
+Athéna ou Athéné (en attique Ἀθηνᾶ / Athēnâ ou en ionien Ἀθήνη / Athḗnē) est une déesse grecque antique, identifiée à Minerve chez les Romains. Elle joue un rôle important dans la mythologie grecque. Elle est également appelée « Pallas Athéna », déesse de la sagesse, de la stratégie militaire, des artisans des artistes et des maîtres d'école.     <Text nLength="6" nType="POR_TXT" nHeight="276" nWidth="747"/>
+    <Text nLength="4" nType="POR_TXT" nHeight="276" nWidth="360"/>
+    <Text nLength="6" nType="POR_TXT" nHeight="276" nWidth="733"/>
+    <Text nLength="5" nType="POR_TXT" nHeight="276" nWidth="427"/>
+    <Text nLength="7" nType="POR_TXT" nHeight="276" nWidth="653"/>
+    <Text nLength="6" nType="POR_TXT" nHeight="276" nWidth="708"/>
+    <Special nLength="1" nType="POR_BLANK" rText="&#xA0;"/>
+    <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="127"/>
+    <Text nLength="6" nType="POR_TXT" nHeight="276" nWidth="680"/>
+    <Text nLength="7" nType="POR_TXT" nHeight="276" nWidth="647"/>
+    <Text nLength="6" nType="POR_TXT" nHeight="276" nWidth="600"/>
+    <Text nLength="6" nType="POR_TXT" nHeight="276" nWidth="708"/>
+    <Special nLength="1" nType="POR_BLANK" rText="&#xA0;"/>
+    <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="127"/>
+    <Text nLength="6" nType="POR_TXT" nHeight="276" nWidth="666"/>
+    <Text nLength="10" nType="POR_TXT" nHeight="276" nWidth="873"/>
+    <Text nLength="6" nType="POR_TXT" nHeight="276" nWidth="626"/>
+    <Text nLength="1" nType="POR_TXT" nHeight="276" nWidth="60"/>
+    <LineBreak nWidth="8862"/>
+    <Text nLength="30" nType="POR_TXT" nHeight="276" nWidth="2779"/>
+    <Text nLength="7" nType="POR_TXT" nHeight="276" nWidth="813"/>
+    <Text nLength="55" nType="POR_TXT" nHeight="276" nWidth="5238"/>
+    <LineBreak nWidth="8830"/>
+    <Text nLength="18" nType="POR_TXT" nHeight="276" nWidth="1913"/>
+    <Text nLength="30" nType="POR_TXT" nHeight="276" nWidth="2852"/>
+    <Special nLength="1" nType="POR_BLANK" rText="&#xA0;"/>
+    <Text nLength="13" nType="POR_TXT" nHeight="276" nWidth="1326"/>
+    <Special nLength="1" nType="POR_BLANK" rText="&#xA0;"/>
+    <Text nLength="16" nType="POR_TXT" nHeight="276" nWidth="1446"/>
+    <Text nLength="7" nType="POR_TXT" nHeight="276" nWidth="720"/>
+    <Text nLength="8" nType="POR_TXT" nHeight="276" nWidth="640"/>
+    <LineBreak nWidth="9017"/>
+    <Text nLength="19" nType="POR_TXT" nHeight="276" nWidth="1686"/>
+    <Text nLength="6" nType="POR_TXT" nHeight="276" nWidth="500"/>
+    <Text nLength="8" nType="POR_TXT" nHeight="276" nWidth="733"/>
+    <Text nLength="5" nType="POR_TXT" nHeight="276" nWidth="440"/>
+    <Text nLength="8" nType="POR_TXT" nHeight="276" nWidth="680"/>
+    <Text nLength="25" nType="POR_TXT" nHeight="276" nWidth="2229"/>
+    <LineBreak nWidth="6268"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7ff2e051e8c0" id="4" symbol="11SwTextFrame" next="5" prev="3" upper="2" txtNodeIndex="10">
+    <infos>
+     <bounds left="4340" top="2905" width="9066" height="1304" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="200" width="9066" height="1104"/>
+    </infos>
+Athéna est le type achevé de la divinité poliade5. Elle était considérée comme la patronne et protectrice de plusieurs cités de Grèce, notamment celle d’Athènes. Elle est généralement montrée dans l'art portant un casque et tenant une lance. Ses principaux symboles incluent la chouette, l'olivier, le serpent et le Gorgonéion.     <Text nLength="48" nType="POR_TXT" nHeight="276" nWidth="4531"/>
+    <Text nLength="1" nType="POR_TXT" nHeight="276" nWidth="80"/>
+    <Text nLength="45" nType="POR_TXT" nHeight="276" nWidth="4258"/>
+    <LineBreak nWidth="8869"/>
+    <Text nLength="34" nType="POR_TXT" nHeight="276" nWidth="3085"/>
+    <Text nLength="5" nType="POR_TXT" nHeight="276" nWidth="573"/>
+    <Text nLength="20" nType="POR_TXT" nHeight="276" nWidth="1973"/>
+    <Text nLength="7" nType="POR_TXT" nHeight="276" nWidth="786"/>
+    <Text nLength="24" nType="POR_TXT" nHeight="276" nWidth="2246"/>
+    <LineBreak nWidth="8663"/>
+    <Text nLength="51" nType="POR_TXT" nHeight="276" nWidth="4808"/>
+    <Text nLength="5" nType="POR_TXT" nHeight="276" nWidth="506"/>
+    <Text nLength="38" nType="POR_TXT" nHeight="276" nWidth="3632"/>
+    <LineBreak nWidth="8946"/>
+    <Text nLength="8" nType="POR_TXT" nHeight="276" nWidth="813"/>
+    <Text nLength="4" nType="POR_TXT" nHeight="276" nWidth="230"/>
+    <Text nLength="7" nType="POR_TXT" nHeight="276" nWidth="627"/>
+    <Text nLength="5" nType="POR_TXT" nHeight="276" nWidth="353"/>
+    <Text nLength="7" nType="POR_TXT" nHeight="276" nWidth="693"/>
+    <Text nLength="7" nType="POR_TXT" nHeight="276" nWidth="526"/>
+    <Text nLength="10" nType="POR_TXT" nHeight="276" nWidth="1147"/>
+    <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="120"/>
+    <LineBreak nWidth="4509"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7ff2e051e9e0" id="5" symbol="11SwTextFrame" next="6" prev="4" upper="2" txtNodeIndex="11">
+    <infos>
+     <bounds left="4340" top="4209" width="9066" height="1028" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="200" width="9066" height="828"/>
+    </infos>
+Athéna, avec Aphrodite et Héra, est l'une des trois déesses dont la querelle provoque la guerre de Troie. Elle joue un rôle actif dans l’Iliade où elle assiste les Achéens et, dans l’Odyssée où elle est la conseillère divine d’Ulysse.     <Text nLength="13" nType="POR_TXT" nHeight="276" nWidth="1313"/>
+    <Text nLength="9" nType="POR_TXT" nHeight="276" nWidth="973"/>
+    <Text nLength="4" nType="POR_TXT" nHeight="276" nWidth="293"/>
+    <Text nLength="4" nType="POR_TXT" nHeight="276" nWidth="466"/>
+    <Text nLength="59" nType="POR_TXT" nHeight="276" nWidth="5361"/>
+    <Text nLength="6" nType="POR_TXT" nHeight="276" nWidth="613"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <LineBreak nWidth="9019"/>
+    <Text nLength="8" nType="POR_TXT" nHeight="276" nWidth="806"/>
+    <Text nLength="33" nType="POR_TXT" nHeight="276" nWidth="2906"/>
+    <Text nLength="6" nType="POR_TXT" nHeight="276" nWidth="560"/>
+    <Text nLength="21" nType="POR_TXT" nHeight="276" nWidth="1779"/>
+    <Text nLength="7" nType="POR_TXT" nHeight="276" nWidth="826"/>
+    <Text nLength="12" nType="POR_TXT" nHeight="276" nWidth="1000"/>
+    <Text nLength="7" nType="POR_TXT" nHeight="276" nWidth="800"/>
+    <Text nLength="4" nType="POR_TXT" nHeight="276" nWidth="360"/>
+    <LineBreak nWidth="9037"/>
+    <Text nLength="33" nType="POR_TXT" nHeight="276" nWidth="2925"/>
+    <Text nLength="6" nType="POR_TXT" nHeight="276" nWidth="653"/>
+    <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="120"/>
+    <LineBreak nWidth="3698"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7ff2e051eb00" id="6" symbol="11SwTextFrame" next="7" prev="5" upper="2" txtNodeIndex="12">
+    <infos>
+     <bounds left="4340" top="5237" width="9066" height="1580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="200" width="9066" height="1380"/>
+    </infos>
+Athéna est également la déesse protectrice des héros ; elle apporte son soutien à Persée, Héraclès, Bellérophon et Jason.*En tant que patronne de l'artisanat et du tissage, Athéna était connue sous le nom d'Ergane.*Elle est également une déesse guerrière et elle menait les soldats au combat sous le nom d'Athéna Promachos.     <Text nLength="52" nType="POR_TXT" nHeight="276" nWidth="5031"/>
+    <Special nLength="1" nType="POR_BLANK" rText="&#xA0;"/>
+    <Text nLength="29" nType="POR_TXT" nHeight="276" nWidth="2626"/>
+    <Text nLength="6" nType="POR_TXT" nHeight="276" nWidth="626"/>
+    <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="120"/>
+    <LineBreak nWidth="8463"/>
+    <Text nLength="8" nType="POR_TXT" nHeight="276" nWidth="839"/>
+    <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="120"/>
+    <Text nLength="11" nType="POR_TXT" nHeight="276" nWidth="1186"/>
+    <Text nLength="4" nType="POR_TXT" nHeight="276" nWidth="293"/>
+    <Text nLength="5" nType="POR_TXT" nHeight="276" nWidth="533"/>
+    <Text nLength="1" nType="POR_TXT" nHeight="276" nWidth="60"/>
+    <Text nLength="1" nType="POR_BRK"/>
+    <LineBreak nWidth="3031"/>
+    <Text nLength="26" nType="POR_TXT" nHeight="276" nWidth="2449"/>
+    <Text nLength="9" nType="POR_TXT" nHeight="276" nWidth="813"/>
+    <Text nLength="7" nType="POR_TXT" nHeight="276" nWidth="593"/>
+    <Text nLength="7" nType="POR_TXT" nHeight="276" nWidth="653"/>
+    <Text nLength="43" nType="POR_TXT" nHeight="276" nWidth="4208"/>
+    <Text nLength="1" nType="POR_BRK"/>
+    <LineBreak nWidth="8716"/>
+    <Text nLength="89" nType="POR_LAY" nHeight="276" nWidth="8503"/>
+    <LineBreak nWidth="8503"/>
+    <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="163"/>
+    <Text nLength="16" nType="POR_TXT" nHeight="276" nWidth="1820"/>
+    <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="120"/>
+    <LineBreak nWidth="2103"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7ff2e051ec20" id="7" symbol="11SwTextFrame" next="8" prev="6" upper="2" txtNodeIndex="13">
+    <infos>
+     <bounds left="4340" top="6817" width="9066" height="1304" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="200" width="9066" height="1104"/>
+    </infos>
+Le Parthénon sur l'acropole d'Athènes lui est dédié, ainsi que de nombreux autres temples et monuments.*Son festival principal à Athènes était les Panathénées, célébrées pendant le mois d’Hécatombéon en plein été, c’était le festival le plus important du calendrier athénien.     <Text nLength="3" nType="POR_TXT" nHeight="276" nWidth="313"/>
+    <Text nLength="9" nType="POR_TXT" nHeight="276" nWidth="973"/>
+    <Text nLength="7" nType="POR_TXT" nHeight="276" nWidth="523"/>
+    <Text nLength="18" nType="POR_TXT" nHeight="276" nWidth="1836"/>
+    <Text nLength="56" nType="POR_TXT" nHeight="276" nWidth="5251"/>
+    <LineBreak nWidth="8896"/>
+    <Text nLength="10" nType="POR_TXT" nHeight="276" nWidth="1180"/>
+    <Text nLength="1" nType="POR_BRK"/>
+    <LineBreak nWidth="1180"/>
+    <Text nLength="43" nType="POR_TXT" nHeight="276" nWidth="3925"/>
+    <Text nLength="11" nType="POR_TXT" nHeight="276" nWidth="1186"/>
+    <Text nLength="28" nType="POR_TXT" nHeight="276" nWidth="2652"/>
+    <LineBreak nWidth="7763"/>
+    <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="200"/>
+    <Text nLength="11" nType="POR_TXT" nHeight="276" nWidth="1333"/>
+    <Text nLength="77" nType="POR_TXT" nHeight="276" nWidth="6884"/>
+    <LineBreak nWidth="8417"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7ff2e051ed40" id="8" symbol="11SwTextFrame" next="9" prev="7" upper="2" txtNodeIndex="14">
+    <infos>
+     <bounds left="4340" top="8121" width="9066" height="614" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="200" width="9066" height="414"/>
+    </infos>
+Étymologie    <Text nLength="10" nType="POR_PARA" nHeight="414" nWidth="1740"/>
+    <LineBreak nWidth="1740"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7ff2e051ee60" id="9" symbol="11SwTextFrame" next="10" prev="8" upper="2" txtNodeIndex="15">
+    <infos>
+     <bounds left="4340" top="8735" width="9066" height="476" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="200" width="9066" height="276"/>
+    </infos>
+Le nom d’Athéna, attesté en mycénien, n'a pas d'étymologie certaine6.     <Text nLength="28" nType="POR_TXT" nHeight="276" nWidth="2772"/>
+    <Text nLength="8" nType="POR_TXT" nHeight="276" nWidth="933"/>
+    <Text nLength="12" nType="POR_TXT" nHeight="276" nWidth="993"/>
+    <Text nLength="10" nType="POR_TXT" nHeight="276" nWidth="1080"/>
+    <Text nLength="9" nType="POR_TXT" nHeight="276" nWidth="819"/>
+    <Text nLength="1" nType="POR_TXT" nHeight="276" nWidth="80"/>
+    <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="120"/>
+    <LineBreak nWidth="6797"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7ff2e3f7e8f0" id="10" symbol="11SwTextFrame" next="11" prev="9" upper="2" txtNodeIndex="16">
+    <infos>
+     <bounds left="4340" top="9211" width="9066" height="2684" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="200" width="9066" height="2484"/>
+    </infos>
+Une première hypothèse est que le nom Athéna tiendrait son origine de la cité d’Athènes7. Le nom de la cité en grec ancien est Ἀθῆναι (Athenai). Ce nom au pluriel désigne le lieu où, selon le mythe, la déesse a présidé l'Athenai, une fraternité consacrée à son culte8.*L'Acropole située au sommet de la colline du même nom, constituait probablement le « noyau fondateur » de cette cité, dont Athéna était devenue la protectrice.*Des témoignages provenant de différentes cités de la Grèce antique attestent que des déesses étaient également adorées dans d'autres cités. Comme Athéna, elles tiraient leur nom des cités où elles étaient adorées. À Mycènes, il y avait par exemple une déesse appelée Mykene, tandis qu'à Thèbes une divinité analogue était appelée Thebe8.     <Text nLength="87" nType="POR_TXT" nHeight="276" nWidth="8517"/>
+    <Text nLength="1" nType="POR_TXT" nHeight="276" nWidth="80"/>
+    <Text nLength="5" nType="POR_TXT" nHeight="276" nWidth="433"/>
+    <LineBreak nWidth="9030"/>
+    <Text nLength="90" nType="POR_LAY" nHeight="276" nWidth="8589"/>
+    <LineBreak nWidth="8589"/>
+    <Text nLength="36" nType="POR_TXT" nHeight="276" nWidth="3358"/>
+    <Text nLength="9" nType="POR_TXT" nHeight="276" nWidth="865"/>
+    <Text nLength="38" nType="POR_TXT" nHeight="276" nWidth="3498"/>
+    <Text nLength="1" nType="POR_TXT" nHeight="276" nWidth="80"/>
+    <Text nLength="1" nType="POR_TXT" nHeight="276" nWidth="60"/>
+    <Text nLength="1" nType="POR_BRK"/>
+    <LineBreak nWidth="7861"/>
+    <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="190"/>
+    <Text nLength="8" nType="POR_TXT" nHeight="276" nWidth="893"/>
+    <Text nLength="74" nType="POR_TXT" nHeight="276" nWidth="7304"/>
+    <Special nLength="1" nType="POR_BLANK" rText="&#xA0;"/>
+    <Text nLength="5" nType="POR_TXT" nHeight="276" nWidth="587"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <LineBreak nWidth="9034"/>
+    <Text nLength="9" nType="POR_TXT" nHeight="276" nWidth="920"/>
+    <Special nLength="1" nType="POR_BLANK" rText="&#xA0;"/>
+    <Text nLength="58" nType="POR_TXT" nHeight="276" nWidth="5337"/>
+    <Text nLength="1" nType="POR_BRK"/>
+    <LineBreak nWidth="6317"/>
+    <Text nLength="93" nType="POR_LAY" nHeight="276" nWidth="8942"/>
+    <LineBreak nWidth="8942"/>
+    <Text nLength="95" nType="POR_LAY" nHeight="276" nWidth="9066"/>
+    <LineBreak nWidth="9066"/>
+    <Text nLength="87" nType="POR_LAY" nHeight="276" nWidth="8502"/>
+    <LineBreak nWidth="8502"/>
+    <Text nLength="60" nType="POR_TXT" nHeight="276" nWidth="5827"/>
+    <Text nLength="1" nType="POR_TXT" nHeight="276" nWidth="80"/>
+    <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="120"/>
+    <LineBreak nWidth="6027"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7ff2e3f7ee10" id="11" symbol="11SwTextFrame" next="12" prev="10" upper="2" txtNodeIndex="17">
+    <infos>
+     <bounds left="4340" top="11895" width="9066" height="752" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="200" width="9066" height="552"/>
+    </infos>
+Une autre hypothèse est donnée par le philosophe grec Platon. Dans le Cratyle, celui-ci avance une autre explication originale du nom Athéna :     <Text nLength="54" nType="POR_TXT" nHeight="276" nWidth="5298"/>
+    <Text nLength="6" nType="POR_TXT" nHeight="276" nWidth="613"/>
+    <Text nLength="10" nType="POR_TXT" nHeight="276" nWidth="906"/>
+    <Text nLength="7" nType="POR_TXT" nHeight="276" nWidth="720"/>
+    <Text nLength="11" nType="POR_TXT" nHeight="276" nWidth="900"/>
+    <LineBreak nWidth="8437"/>
+    <Text nLength="52" nType="POR_TXT" nHeight="276" nWidth="5191"/>
+    <Special nLength="1" nType="POR_BLANK" rText="&#xA0;"/>
+    <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="127"/>
+    <LineBreak nWidth="5378"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7ff2e3f7fa10" id="12" symbol="11SwTextFrame" next="13" prev="11" upper="2" txtNodeIndex="18">
+    <infos>
+     <bounds left="4340" top="12647" width="9066" height="1756" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="100" width="9066" height="1656"/>
+    </infos>
+« Je crois que les anciens ont eu sur Athéné la même idée que ceux qui se piquent aujourd’hui de bien entendre Homère. La plupart d’entre eux disent que leur auteur a fait de cette divinité la pensée et l’intelligence même. […] Peut-être aussi ne l’a-t-il appelée Théonoé que parce qu’elle possède excellemment la connaissance des choses divines, θεῖα νοούση. Il n’est pas impossible non plus qu’on ait voulu l’appeler Êthonoé, comme étant la raison, l’intelligence dans les mœurs, νοήσις ἐν τῷ ἤθει9. »     <Text nLength="1" nType="POR_TXT" nHeight="276" nWidth="120"/>
+    <Special nLength="1" nType="POR_BLANK" rText="&#xA0;"/>
+    <Text nLength="36" nType="POR_TXT" nHeight="276" nWidth="3305"/>
+    <Text nLength="6" nType="POR_TXT" nHeight="276" nWidth="666"/>
+    <Text nLength="50" nType="POR_TXT" nHeight="276" nWidth="4905"/>
+    <LineBreak nWidth="9056"/>
+    <Text nLength="96" nType="POR_LAY" nHeight="276" nWidth="9009"/>
+    <LineBreak nWidth="9009"/>
+    <Text nLength="74" nType="POR_TXT" nHeight="276" nWidth="6890"/>
+    <Text nLength="7" nType="POR_TXT" nHeight="276" nWidth="827"/>
+    <Text nLength="11" nType="POR_TXT" nHeight="276" nWidth="1046"/>
+    <LineBreak nWidth="8763"/>
+    <Text nLength="91" nType="POR_LAY" nHeight="276" nWidth="8825"/>
+    <LineBreak nWidth="8825"/>
+    <Text nLength="46" nType="POR_TXT" nHeight="276" nWidth="4419"/>
+    <Text nLength="7" nType="POR_TXT" nHeight="276" nWidth="800"/>
+    <Text nLength="40" nType="POR_TXT" nHeight="276" nWidth="3678"/>
+    <LineBreak nWidth="8897"/>
+    <Text nLength="33" nType="POR_TXT" nHeight="276" nWidth="3292"/>
+    <Text nLength="1" nType="POR_TXT" nHeight="276" nWidth="80"/>
+    <Text nLength="1" nType="POR_TXT" nHeight="276" nWidth="60"/>
+    <Special nLength="1" nType="POR_BLANK" rText="&#xA0;"/>
+    <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="180"/>
+    <LineBreak nWidth="3672"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7ff2e3f80880" id="13" symbol="11SwTextFrame" prev="12" upper="2" txtNodeIndex="19">
+    <infos>
+     <bounds left="4340" top="14403" width="9066" height="928" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="100" width="9066" height="828"/>
+    </infos>
+Dans cet extrait, Platon reprend les mots d’un autre philosophe, Socrate, pour qui il est possible de nommer les choses au travers de leur nature10. Athéna aurait été nommée ainsi car elle serait la personnification de l'intelligence parmi les dieux11.     <Text nLength="65" nType="POR_TXT" nHeight="276" nWidth="6158"/>
+    <Text nLength="7" nType="POR_TXT" nHeight="276" nWidth="720"/>
+    <Text nLength="18" nType="POR_TXT" nHeight="276" nWidth="1507"/>
+    <LineBreak nWidth="8385"/>
+    <Text nLength="55" nType="POR_TXT" nHeight="276" nWidth="5338"/>
+    <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="160"/>
+    <Text nLength="36" nType="POR_TXT" nHeight="276" nWidth="3512"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <LineBreak nWidth="9010"/>
+    <Text nLength="65" nType="POR_TXT" nHeight="276" nWidth="5894"/>
+    <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="160"/>
+    <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="120"/>
+    <LineBreak nWidth="6174"/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x600000eb1200" id="17" symbol="11SwPageFrame" prev="1" upper="0" lower="18">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="2923" top="17408" width="11900" height="16840" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1417" top="1417" width="9066" height="14006"/>
+  </infos>
+  <body ptr="0x600000be6060" id="18" symbol="11SwBodyFrame" upper="17" lower="14">
+   <infos>
+    <bounds left="4340" top="18825" width="9066" height="14006" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9066" height="14006"/>
+   </infos>
+   <txt ptr="0x7ff2e3f809a0" id="14" symbol="11SwTextFrame" next="15" upper="18" txtNodeIndex="20">
+    <infos>
+     <bounds left="4340" top="18825" width="9066" height="552" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9066" height="552"/>
+    </infos>
+Selon d’autres sources, l'origine de son nom viendrait de la racine indo-européenne ath- qui signifierait « tête » ou « sommet », car née de la tête de Zeus12.     <Text nLength="68" nType="POR_TXT" nHeight="276" nWidth="6374"/>
+    <Text nLength="15" nType="POR_TXT" nHeight="276" nWidth="1613"/>
+    <Text nLength="1" nType="POR_TXT" nHeight="276" nWidth="60"/>
+    <Text nLength="4" nType="POR_TXT" nHeight="276" nWidth="387"/>
+    <Text nLength="5" nType="POR_TXT" nHeight="276" nWidth="427"/>
+    <LineBreak nWidth="8861"/>
+    <Text nLength="14" nType="POR_TXT" nHeight="276" nWidth="1220"/>
+    <Special nLength="1" nType="POR_BLANK" rText="&#xA0;"/>
+    <Text nLength="4" nType="POR_TXT" nHeight="276" nWidth="346"/>
+    <Special nLength="1" nType="POR_BLANK" rText="&#xA0;"/>
+    <Text nLength="6" nType="POR_TXT" nHeight="276" nWidth="600"/>
+    <Special nLength="1" nType="POR_BLANK" rText="&#xA0;"/>
+    <Text nLength="6" nType="POR_TXT" nHeight="276" nWidth="760"/>
+    <Special nLength="1" nType="POR_BLANK" rText="&#xA0;"/>
+    <Text nLength="25" nType="POR_TXT" nHeight="276" nWidth="2199"/>
+    <Text nLength="4" nType="POR_TXT" nHeight="276" nWidth="467"/>
+    <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="160"/>
+    <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="120"/>
+    <LineBreak nWidth="6112"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7ff2e3f80ac0" id="15" symbol="11SwTextFrame" prev="14" upper="18" txtNodeIndex="21">
+    <infos>
+     <bounds left="4340" top="19377" width="9066" height="393" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="100" width="9066" height="293"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+</root>
